@@ -23,6 +23,3 @@ python Tic_Tac_Toe.py
 ## 📺 Demo
 <p align="center">
 <img src="https://github.com/ndleah/python-mini-project/blob/main/IMG/tictactoe.gif" width=70% height=70%>
-
-## 🤖 Author
-[Leah Nguyen](https://github.com/ndleah)
