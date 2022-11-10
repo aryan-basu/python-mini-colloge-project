@@ -14,6 +14,4 @@ Execute `python3 Hostname_IPaddress.py`
 <!--Remove the below lines and add yours -->
 ![Screenshot of the Hostname_IPaddress.py file](Screenshot.png)
 
-## *Author Name*
-<!--Remove the below lines and add yours -->
-[Nuh Mohammed](https://github.com/NuhMohammed)
+
